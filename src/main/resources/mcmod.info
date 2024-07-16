@@ -1,9 +1,9 @@
 [
   {
     "modid": "quantum",
-    "name": "Quantum++",
+    "name": "Quantum+++",
     "description": "client made for atomic bomb pvp",
-    "version": "0.6.2",
+    "version": "0.0.1",
     "mcversion": "1.12.2",
     "logoFile": "Quantum.png",
     "url": "",
@@ -12,10 +12,11 @@
       "derpyjibs",
       "ProfKambing",
       "noatmc",
-      "perry"
-      "ZANE"
-      "Roosta"
-      "MrBubbleGum"
+      "perry",
+      "ZANE",
+      "Roosta",
+      "MrBubbleGum",
+      "playstation451"
     ],
     "screenshots": [],
     "dependencies": []

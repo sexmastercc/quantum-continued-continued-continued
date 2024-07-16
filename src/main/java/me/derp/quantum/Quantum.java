@@ -13,7 +13,7 @@ import org.lwjgl.opengl.Display;
 public class Quantum {
     public static final String MODID = "quantum";
     public static final String MODNAME = "Quantum";
-    public static final String MODVER = "0.6.2";
+    public static final String MODVER = "0.0.1";
     public static final Logger LOGGER = LogManager.getLogger("Quantum");
     public static TotemPopManager totemPopManager;
     public static TimerManager timerManager;
@@ -134,6 +134,7 @@ public class Quantum {
         LOGGER.info("all my homies love panbo ass - 2b2tbuilder");
         LOGGER.info("Perry Phobos is super good. -perry (Strong 14 yr autistic furry).");
         LOGGER.info("i forced jerpdub to duel me 24/7");
+        LOGGER.info("who tf robbed me in 2b2t");
     }
 
     @Mod.EventHandler
